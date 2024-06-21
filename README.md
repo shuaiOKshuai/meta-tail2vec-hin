@@ -14,3 +14,13 @@ This repository is the official implementation of our paper [Locality-Aware Tail
 	- atask_multiclass_classification/ptask_multiclass_classification.py: Code for classification task.
   - hit.py: Code for prediction task.
 
+## Train
+
+To train the model in each dataset:
+
+First please run deepwalk or other method as base embedding model, the embedding format is the same as deepwalk output.
+
+```
+python prep_dataset.py
+python main.py
+```

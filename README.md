@@ -1,6 +1,6 @@
-# xxx
+# meta-tail2vec+
 
-This repository is the official implementation of [xxx](https://xxx). 
+This repository is the official implementation of our paper [Locality-Aware Tail Node Embeddings on Homogeneous and Heterogeneous Networks](https://zemin-liu.github.io/papers/Locality-aware-tail-node-embeddings-on-homogeneous-and-heterogene.pdf), which is published in TKDE 2023.
 
 ## code
 - /dblp/dataset/:
